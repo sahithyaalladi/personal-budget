@@ -21,12 +21,12 @@
             "budget": 100
         },
         {
-            "title": "wifi",
+            "title": "Store purchase",
             "budget": 50
         },
         {
-            "title": "gas",
-            "budget": 20
+            "title": "Medicines",
+            "budget": 50
         }
     ]
 }
